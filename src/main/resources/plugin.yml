@@ -1,0 +1,5 @@
+name: GensFarm
+version: '${project.version}'
+main: hu.zsomi.gensfarm.gensfarm.GensFarm
+api-version: '1.18'
+authors: [Zsomi5]
